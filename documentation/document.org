@@ -1,0 +1,16 @@
+#+Title: Web Performance Fundmentals
+* Objective
++ Understanding working of a webpage
++ Critical Rendering Path
++ Analysis and Optimization
++ Hands-on with chrome dev tools
++ Hands-on wit pagespeed, yslow and webpagetest
+* Working of Webpage
+** From Hypertext document to complex Web Application
++ Plain hypertext document with text and hyperlink to other hypertext documents
++ Web page with images, audio and styling of tags.
++ Web application <==> Webpage + JavaScript
+** Dependency Graph
+[[file:~/Documents/yslow-framework/documentation/dependency-graph.png]]
+** Critical Rendering Path
+ 
