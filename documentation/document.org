@@ -4,11 +4,11 @@
 + Critical Rendering Path
 + Analysis and Optimization
 + Hands-on with chrome dev tools
-+ Hands-on wit pagespeed, yslow and webpagetest
++ Hands-on with pagespeed, yslow and webpagetest
 * Working of Webpage
 ** From Hypertext document to complex Web Application
 + Plain hypertext document with text and hyperlink to other hypertext documents
-+ Web page with images, audio and styling of tags.
++ Web page <==> hypertext Dcoument + images + audio + styling.
 + Web application <==> Webpage + JavaScript
 ** Dependency Graph
 [[file:~/Documents/yslow-framework/documentation/dependency-graph.png]]
