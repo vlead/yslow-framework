@@ -13,7 +13,7 @@
   <body>
     <p>Hello <span style="display: inline;">interactive</span> students!</p>
     <div><img src="./Critical Path  Measure Inlined_files/awesome-photo.jpg"></div>
-    <div><img src="./Critical Path  Measure Inlined_files/analysis-dom.png"></div>
+    <div><img src="./Critical Path  Measure Inlined_files/analyis-dom.png"></div>
     <script>
       var span = document.getElementsByTagName('span')[0];
       span.textContent = 'interactive'; // change DOM text content

@@ -26,5 +26,5 @@
 + [[/home/jatin/Documents/yslow-framework/documentation/Critical%20Path%20%20Measure%20Script.html][Adding JavaScript and CSS]]
 + [[/home/jatin/Documents/yslow-framework/documentation/Critical%20Path%20%20Measure%20Async.html][External JavaScript with Async]]
 + [[/home/jatin/Documents/yslow-framework/documentation/Critical%20Path%20%20Measure%20Inlined.html][Inlined CSS and Javascript]]
-+ [[file:///home/jatin/Documents/yslow-framework/documentation/analysis_with_css_nb_js_async.html][CSS only for printing and Aysnc]]
++ [[/home/jatin/Documents/yslow-framework/documentation/analysis_with_css_nb_js_async.html][CSS only for printing and Aysnc]]
 
