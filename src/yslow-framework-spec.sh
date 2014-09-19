@@ -22,6 +22,6 @@ chmod +x xampp-linux-x64-1.8.3-4-installer.run
 yes | ./xampp-linux-x64-1.8.3-4-installer.run
 service apache2 stop
 /opt/lampp/lampp start
-git clone https://github.com/jayanthsagar/performace_testing.git
-chmod -R 775 performace_testing/
+git clone https://github.com/vlead/yslow-framework.git
+chmod -R 775 yslow-framework/
 cp performace_testing/* /opt/lampp/htdocs
