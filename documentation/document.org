@@ -8,7 +8,7 @@
 * Working of Webpage
 ** From Hypertext document to complex Web Application
 + Plain hypertext document with text and hyperlink to other hypertext documents
-+ Web page <==> hypertext Dcoument + images + audio + styling.
++ Web page <==> hypertext Dcoument + images + audio + styling
 + Web application <==> Webpage + JavaScript
 ** Dependency Graph
 [[file:~/Documents/yslow-framework/documentation/dependency-graph.png]]
@@ -22,9 +22,9 @@
 \end{figure}   
 #+end_latex 
 *** Hands on Critical Rendering Path
-+ [[/home/jatin/Documents/yslow-framework/documentation/Critical Path  No Style.html][Hello World Experience]]
-+ [[/home/jatin/Documents/yslow-framework/documentation/Critical%20Path%20%20Measure%20Script.html][Adding JavaScript and CSS]]
-+ [[/home/jatin/Documents/yslow-framework/documentation/Critical%20Path%20%20Measure%20Async.html][External JavaScript with Async]]
-+ [[/home/jatin/Documents/yslow-framework/documentation/Critical%20Path%20%20Measure%20Inlined.html][Inlined CSS and Javascript]]
-+ [[/home/jatin/Documents/yslow-framework/documentation/analysis_with_css_nb_js_async.html][CSS only for printing and Aysnc]]
++ [[./Critical Path  No Style.html][Hello World Experience]]
++ [[./Critical%20Path%20%20Measure%20Script.html][Adding JavaScript and CSS]]
++ [[./Critical%20Path%20%20Measure%20Async.html][External JavaScript with Async]]
++ [[./Critical%20Path%20%20Measure%20Inlined.html][Inlined CSS and Javascript]]
++ [[./analysis_with_css_nb_js_async.html][CSS only for printing and Aysnc]]
 
