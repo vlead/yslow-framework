@@ -24,4 +24,5 @@ service apache2 stop
 /opt/lampp/lampp start
 git clone https://github.com/vlead/yslow-framework.git
 chmod -R 775 yslow-framework/
-cp performace_testing/* /opt/lampp/htdocs
+cd yslow-framework/src/
+cp htdocs/* /opt/lampp/htdocs
