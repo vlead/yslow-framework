@@ -1,8 +1,8 @@
 # /bin/bash
 export http_proxy="http://proxy.iiit.ac.in:8080"
-echo $http_proxy
+echo "Your proxy $http_proxy"
 export https_proxy="https://proxy.iiit.ac.in:8080"
-echo $https_proxy
+echo "Your https proxy is $https_proxy"
 apt-get update
 apt-get -y install php5 apache2
 apt-get purge nodejs npm
