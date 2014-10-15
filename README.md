@@ -4,7 +4,7 @@ yslow-framework
 Yslow Framework is a service to analyse performance of a webpage. It uses yslow.js to generate report and we use
 phantomjs to run yslow.js. Phantomjs is an headless browser to run javascript using console.
 
-Assumptions with made while writing script:
+Assumptions with script:
 
 Script is made with following assumptions:
 1)Script is used inside IIIT network. Therefore, environment variables http_proxy and https_proxy are assigned
